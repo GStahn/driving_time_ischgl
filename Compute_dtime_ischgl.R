@@ -35,7 +35,7 @@ library(writexl)
 rm(list = ls())
 
 ### set working directory and paths ###
-setwd("/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/Github/driving_time_ischgl")
+setwd("YOU PATH")
 
 
 ## -----------------------------------------------------------------------------
